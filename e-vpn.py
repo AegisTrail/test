@@ -4,6 +4,7 @@ import subprocess
 
 OUTPUT_FILE = "ovpn-e.conf"
 API_CERT_URL = "https://api.black.riseup.net/3/cert"
+TEXT = "hello world"
 API_GATEWAYS_URL = "https://api.black.riseup.net/3/config/eip-service.json"
 VERBOSE = True
 
